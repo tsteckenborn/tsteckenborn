@@ -1,0 +1,30 @@
+{
+  "name": "tsteckenborn",
+  "version": "1.0.0",
+  "description": "tsteckenborn README GitHub profile",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "update-readme": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsteckenborn/tsteckenborn.git"
+  },
+  "keywords": [
+    "readme",
+    "github profile",
+    "github readme"
+  ],
+  "author": "Tobias Steckenborn <tobias.steckenborn@consolvis.de> (https://consolvis.de)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsteckenborn/tsteckenborn/issues"
+  },
+  "homepage": "https://github.com/tsteckenborn/tsteckenborn#readme",
+  "dependencies": {
+    "node-fetch": "2.6.1",
+    "rss-parser": "3.8.0"
+  }
+}
