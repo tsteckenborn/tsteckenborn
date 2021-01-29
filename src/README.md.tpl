@@ -9,6 +9,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/tsteckenborn?label=Twitter&logo=twitter&style=for-the-badge&color=FE420D)](https://twitter.com/tsteckenborn)
 [![GitHub badge](https://img.shields.io/github/followers/tsteckenborn?label=Followers&logo=GitHub&style=for-the-badge&color=FE420D)](https://github.com/tsteckenborn?tab=followers)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=Instagram&color=FE420D)](https://www.instagram.com/tobias.steckenborn/)
+[![SAP Community](https://img.shields.io/badge/SAP_Community-Profile-informational?style=for-the-badge&logo=SAP&color=FE420D)](https://people.sap.com/tobias_steckenborn)
 
 
 Hey there 👋,
