@@ -34,6 +34,9 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 <br>
 
 
+<a href='https://youtu.be/vFncHyAzckg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/vFncHyAzckg/mqdefault.jpg' alt='Stepping into an SAP Career - Choosing your Market' />
+</a>
 
 <br>
 
