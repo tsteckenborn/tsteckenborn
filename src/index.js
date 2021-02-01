@@ -13,7 +13,7 @@ const getLatestArticlesFromBlog = () =>
 
 const getLatestYoutubeVideos = () =>
   fetch(
-    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=PLgR5rnh3Z1mJbq0RvdEM5PBeeKt7keDf3&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
+    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=PLgR5rnh3Z1mLwsEQOeXwD66HGWkrjL07a&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
   )
     .then((res) => res.json())
     .then((videos) => videos.items);
