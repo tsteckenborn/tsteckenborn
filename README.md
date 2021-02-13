@@ -48,7 +48,7 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 - [Was ist Cloud Native?](https://www.consolvis.de/blog/was-ist-cloud-native/)
 - [Was ist Cloud Computing?](https://www.consolvis.de/blog/was-ist-cloud-computing/)
 - [Wie 2021 SAP Cloud Plattform Entwickler werden?](https://www.consolvis.de/blog/scp-roadmap/)
-- [Was ist Qualtrics?](https://www.consolvis.de/blog/was-ist-qualtrics/)
+- [SAP Conversational AI – Die Chatbot-Plattform im Überblick](https://www.consolvis.de/blog/sap-conversational-ai/)
 
 <br>
 
