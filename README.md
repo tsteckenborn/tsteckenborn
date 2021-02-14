@@ -37,6 +37,9 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 <a href='https://youtu.be/vFncHyAzckg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/vFncHyAzckg/mqdefault.jpg' alt='Stepping into an SAP Career - Choosing your Market' />
 </a>
+<a href='https://youtu.be/BJHfrmW7e_Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/BJHfrmW7e_Y/mqdefault.jpg' alt='SAP Certifications - Which one to choose, how to get it and what to do afterwards' />
+</a>
 
 <br>
 
