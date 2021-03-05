@@ -48,10 +48,10 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 <br>
 
 - [Wie man sich auf SAP Zertifizierungen vorbereitet – Meine Erfahrung nach 11 bestandenen Zertifizierungen.](https://www.consolvis.de/blog/wie-man-sich-auf-sap-zertifizierungen-vorbereitet/)
-- [Was ist Cloud Native?](https://www.consolvis.de/blog/was-ist-cloud-native/)
-- [Was ist Cloud Computing?](https://www.consolvis.de/blog/was-ist-cloud-computing/)
 - [Wie 2021 SAP Cloud Plattform Entwickler werden?](https://www.consolvis.de/blog/scp-roadmap/)
 - [SAP Conversational AI – Die Chatbot-Plattform im Überblick](https://www.consolvis.de/blog/sap-conversational-ai/)
+- [Chatbot Trends für das Jahr 2020](https://www.consolvis.de/blog/chatbot-trends-fuer-das-jahr-2020/)
+- [SAP Business Technology Platform: Der ultimative Guide](https://www.consolvis.de/blog/sap-business-technology-platform-guide/)
 
 <br>
 
