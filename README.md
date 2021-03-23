@@ -40,6 +40,9 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 <a href='https://youtu.be/BJHfrmW7e_Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/BJHfrmW7e_Y/mqdefault.jpg' alt='SAP Certifications - Which one to choose, how to get it and what to do afterwards' />
 </a>
+<a href='https://youtu.be/yNRV7aeu2TE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/yNRV7aeu2TE/mqdefault.jpg' alt='A roadmap to becoming an SAP BTP Developer in 2021' />
+</a>
 
 <br>
 
