@@ -29,32 +29,37 @@ My **mission** is to give my customers the time to focus on what's really import
 
 Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedin.com/in/tobias-steckenborn/)
 
-## 📹 **ENGLISH** - Latest videos on [my Youtube Channel](https://www.youtube.com/channel/UCBBAshw8YGzhF54lbNrmtUQ)
+## 📹 Latest videos on [my Youtube Channel](https://www.youtube.com/channel/UCBBAshw8YGzhF54lbNrmtUQ)
 
 <br>
 
 
-<a href='https://youtu.be/vFncHyAzckg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vFncHyAzckg/mqdefault.jpg' alt='Stepping into an SAP Career - Choosing your Market' />
-</a>
-<a href='https://youtu.be/BJHfrmW7e_Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BJHfrmW7e_Y/mqdefault.jpg' alt='SAP Certifications - Which one to choose, how to get it and what to do afterwards' />
+<a href='https://youtu.be/btwnZd3UMg4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/btwnZd3UMg4/mqdefault.jpg' alt='Getting started with the SAP BTP Business Rules Service' />
 </a>
 <a href='https://youtu.be/yNRV7aeu2TE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yNRV7aeu2TE/mqdefault.jpg' alt='A roadmap to becoming an SAP BTP Developer in 2021' />
 </a>
+<a href='https://youtu.be/BGUBYJqALKI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/BGUBYJqALKI/mqdefault.jpg' alt='Semantic versioning explained in less than 5 minutes' />
+</a>
+<a href='https://youtu.be/BJHfrmW7e_Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/BJHfrmW7e_Y/mqdefault.jpg' alt='SAP Certifications - Which one to choose, how to get it and what to do afterwards' />
+</a>
+<a href='https://youtu.be/vFncHyAzckg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/vFncHyAzckg/mqdefault.jpg' alt='Stepping into an SAP Career - Choosing your Market' />
+</a>
 
 <br>
 
-## 📝 **GERMAN** - Latest Blog Posts on [Consolvis.de](https://www.consolvis.de/blog/):
+## 📝 Latest Blog Posts on [Consolvis.de](https://www.consolvis.de/blog/):
 
 <br>
 
-- [Was ist das SAP Cloud Application Programming Model?](https://www.consolvis.de/blog/sap-cloud-application-programming-model/)
-- [Die SAP BTP Community – Ein Leitfaden für beschäftigte Experten](https://www.consolvis.de/blog/sap-btp-community/)
-- [Wie man sich auf SAP Zertifizierungen vorbereitet – Meine Erfahrung nach 11 bestandenen Zertifizierungen.](https://www.consolvis.de/blog/wie-man-sich-auf-sap-zertifizierungen-vorbereitet/)
-- [Wie 2021 SAP Business Technology Platform Entwickler werden?](https://www.consolvis.de/blog/sap-btp-developer-roadmap/)
-- [SAP Conversational AI – Die Chatbot-Plattform im Überblick](https://www.consolvis.de/blog/sap-conversational-ai/)
+- [What is the SAP Cloud Application Programming Model?](https://www.consolvis.de/en/blog/what-is-the-sap-cloud-application-programming-model/)
+- [SAP Conversational AI – The Chatbot Platform at a Glance](https://www.consolvis.de/en/blog/sap-conversational-ai-the-chatbot-platform-at-a-glance/)
+- [SAP Business Technology Platform: The ultimate guide](https://www.consolvis.de/en/blog/sap-business-technology-platform-the-ultimate-guide/)
+- [SAP Workflow Management: The Ultimate Guide](https://www.consolvis.de/en/blog/sap-workflow-management-the-ultimate-guide/)
 
 <br>
 
@@ -70,10 +75,6 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 
 <a href="https://github.com/tsteckenborn/cp-workflow-book-example">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tsteckenborn&repo=cp-workflow-book-example&title_color=3c4856&text_color=3c4856&icon_color=FE420D&bg_color=ffffff" />
-</a>
-
-<a href="https://github.com/consolvis/gitTutorialBeginners">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=consolvis&repo=gitTutorialBeginners&title_color=3c4856&text_color=3c4856&icon_color=FE420D&bg_color=ffffff" />
 </a>
 
 <br>
