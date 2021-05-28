@@ -9,14 +9,31 @@ const parser = new Parser();
 const { YOUTUBE_API_KEY } = process.env;
 
 const getLatestArticlesFromBlog = () =>
-  parser.parseURL("https://www.consolvis.de/feed/").then((data) => data.items);
+  parser.parseURL("https://www.consolvis.de/en/feed/").then((data) => data.items);
 
-const getLatestYoutubeVideos = () =>
-  fetch(
-    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=PLgR5rnh3Z1mLwsEQOeXwD66HGWkrjL07a&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
-  )
-    .then((res) => res.json())
-    .then((videos) => videos.items);
+const getLatestYoutubeVideos = () => fetch(
+  `https://www.googleapis.com/youtube/v3/channels?id=UCBBAshw8YGzhF54lbNrmtUQ&key=${YOUTUBE_API_KEY}&part=contentDetails`
+)
+  .then((res) => res.json())
+  .then((jsonData) => {
+    return Promise.all(
+      jsonData.items.map((channel) => {
+
+
+        return fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channel.contentDetails.relatedPlaylists.uploads}&key=${YOUTUBE_API_KEY}`).then(res => res.json());
+      })
+  );
+})
+.then(jsonData => {
+  return jsonData.reduce((result, data) => {
+    if (data) {
+      data.items.forEach(items => {
+        result.push(items);
+      });
+    }
+    return result;
+  }, []);
+});
 
 const generateYoutubeHTML = ({ title, videoId }) => `
 <a href='https://youtu.be/${videoId}' target='_blank'>

@@ -29,7 +29,7 @@ My **mission** is to give my customers the time to focus on what's really import
 
 Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedin.com/in/tobias-steckenborn/)
 
-## 📹 **ENGLISH** - Latest videos on [my Youtube Channel](https://www.youtube.com/channel/UCBBAshw8YGzhF54lbNrmtUQ)
+## 📹 Latest videos on [my Youtube Channel](https://www.youtube.com/channel/UCBBAshw8YGzhF54lbNrmtUQ)
 
 <br>
 
@@ -37,7 +37,7 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 
 <br>
 
-## 📝 **GERMAN** - Latest Blog Posts on [Consolvis.de](https://www.consolvis.de/blog/):
+## 📝 Latest Blog Posts on [Consolvis.de](https://www.consolvis.de/blog/):
 
 <br>
 
@@ -57,10 +57,6 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 
 <a href="https://github.com/tsteckenborn/cp-workflow-book-example">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tsteckenborn&repo=cp-workflow-book-example&title_color=3c4856&text_color=3c4856&icon_color=FE420D&bg_color=ffffff" />
-</a>
-
-<a href="https://github.com/consolvis/gitTutorialBeginners">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=consolvis&repo=gitTutorialBeginners&title_color=3c4856&text_color=3c4856&icon_color=FE420D&bg_color=ffffff" />
 </a>
 
 <br>
