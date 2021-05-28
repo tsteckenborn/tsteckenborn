@@ -53,8 +53,6 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=consolvis&repo=SAP-BTP-Backend-Developer-Roadmap&title_color=3c4856&text_color=3c4856&icon_color=FE420D&bg_color=ffffff" />
 </a>
 
-<br>
-
 <a href="https://github.com/tsteckenborn/cp-workflow-book-example">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tsteckenborn&repo=cp-workflow-book-example&title_color=3c4856&text_color=3c4856&icon_color=FE420D&bg_color=ffffff" />
 </a>
