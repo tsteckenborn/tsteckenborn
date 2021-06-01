@@ -56,11 +56,11 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 
 <br>
 
+- [How to become a SAP Business Technology Platform Developer in 2021?](https://www.consolvis.de/en/blog/how-to-become-a-sap-business-technology-platform-developer-in-2021/)
 - [What makes a chatbot successful?](https://www.consolvis.de/en/blog/what-makes-a-chatbot-successful/)
 - [What is the SAP Cloud Application Programming Model?](https://www.consolvis.de/en/blog/what-is-the-sap-cloud-application-programming-model/)
-- [SAP Conversational AI – The Chatbot Platform at a Glance](https://www.consolvis.de/en/blog/sap-conversational-ai-the-chatbot-platform-at-a-glance/)
-- [SAP Business Technology Platform: The ultimate guide](https://www.consolvis.de/en/blog/sap-business-technology-platform-the-ultimate-guide/)
-- [SAP Workflow Management: The Ultimate Guide](https://www.consolvis.de/en/blog/sap-workflow-management-the-ultimate-guide/)
+- [The SAP BTP Community – A Guide for Busy Experts](https://www.consolvis.de/en/blog/the-sap-btp-community-a-guide-for-busy-experts/)
+- [How to prepare for SAP certifications – My experience after passing 11 certifications.](https://www.consolvis.de/en/blog/how-to-prepare-for-sap-certifications/)
 
 <br>
 
