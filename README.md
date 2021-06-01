@@ -56,6 +56,7 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 
 <br>
 
+- [What makes a chatbot successful?](https://www.consolvis.de/en/blog/what-makes-a-chatbot-successful/)
 - [What is the SAP Cloud Application Programming Model?](https://www.consolvis.de/en/blog/what-is-the-sap-cloud-application-programming-model/)
 - [SAP Conversational AI – The Chatbot Platform at a Glance](https://www.consolvis.de/en/blog/sap-conversational-ai-the-chatbot-platform-at-a-glance/)
 - [SAP Business Technology Platform: The ultimate guide](https://www.consolvis.de/en/blog/sap-business-technology-platform-the-ultimate-guide/)
