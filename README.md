@@ -59,7 +59,7 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 - [Beautify your Windows PowerShell in Visual Studio Code](https://www.consolvis.de/en/blog/beautify-your-windows-powershell-in-visual-studio-code/)
 - [How to become a SAP Business Technology Platform Developer in 2021?](https://www.consolvis.de/en/blog/how-to-become-a-sap-business-technology-platform-developer-in-2021/)
 - [What makes a chatbot successful?](https://www.consolvis.de/en/blog/what-makes-a-chatbot-successful/)
-- [What is the SAP Cloud Application Programming Model?](https://www.consolvis.de/en/blog/what-is-the-sap-cloud-application-programming-model/)
+- [What’s the SAP Cloud Application Programming Model?](https://www.consolvis.de/en/blog/what-is-the-sap-cloud-application-programming-model/)
 - [The SAP BTP Community – A Guide for Busy Experts](https://www.consolvis.de/en/blog/the-sap-btp-community-a-guide-for-busy-experts/)
 
 <br>
