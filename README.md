@@ -34,6 +34,9 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 <br>
 
 
+<a href='https://youtu.be/ZqEsWxzv8yg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZqEsWxzv8yg/mqdefault.jpg' alt='Beautify your Windows PowerShell in Visual Studio Code' />
+</a>
 <a href='https://youtu.be/btwnZd3UMg4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/btwnZd3UMg4/mqdefault.jpg' alt='Getting started with the SAP BTP Business Rules Service' />
 </a>
@@ -45,9 +48,6 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 </a>
 <a href='https://youtu.be/BJHfrmW7e_Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/BJHfrmW7e_Y/mqdefault.jpg' alt='SAP Certifications - Which one to choose, how to get it and what to do afterwards' />
-</a>
-<a href='https://youtu.be/vFncHyAzckg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vFncHyAzckg/mqdefault.jpg' alt='Stepping into an SAP Career - Choosing your Market' />
 </a>
 
 <br>
