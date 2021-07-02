@@ -34,6 +34,9 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 <br>
 
 
+<a href='https://youtu.be/a2bGQ6GZCwY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/a2bGQ6GZCwY/mqdefault.jpg' alt='How to load initial data in a SAP CAP application' />
+</a>
 <a href='https://youtu.be/ZqEsWxzv8yg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZqEsWxzv8yg/mqdefault.jpg' alt='Beautify your Windows PowerShell in Visual Studio Code' />
 </a>
@@ -46,9 +49,6 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 <a href='https://youtu.be/BGUBYJqALKI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/BGUBYJqALKI/mqdefault.jpg' alt='Semantic versioning explained in less than 5 minutes' />
 </a>
-<a href='https://youtu.be/BJHfrmW7e_Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BJHfrmW7e_Y/mqdefault.jpg' alt='SAP Certifications - Which one to choose, how to get it and what to do afterwards' />
-</a>
 
 <br>
 
@@ -56,11 +56,11 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 
 <br>
 
+- [How to load initial data into nested entities](https://www.consolvis.de/en/blog/how-to-load-initial-data-into-nested-entities/)
 - [Beautify your Windows PowerShell in Visual Studio Code](https://www.consolvis.de/en/blog/beautify-your-windows-powershell-in-visual-studio-code/)
 - [How to become a SAP Business Technology Platform Developer in 2021?](https://www.consolvis.de/en/blog/how-to-become-a-sap-business-technology-platform-developer-in-2021/)
 - [What makes a chatbot successful?](https://www.consolvis.de/en/blog/what-makes-a-chatbot-successful/)
 - [What’s the SAP Cloud Application Programming Model?](https://www.consolvis.de/en/blog/what-is-the-sap-cloud-application-programming-model/)
-- [The SAP BTP Community – A Guide for Busy Experts](https://www.consolvis.de/en/blog/the-sap-btp-community-a-guide-for-busy-experts/)
 
 <br>
 
