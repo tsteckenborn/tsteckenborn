@@ -56,11 +56,11 @@ Want to know more about me? [Check out my LinkedIn profile.](https://www.linkedi
 
 <br>
 
+- [Prevent a whole category of errors in your SAP CAP applications with a few simple tools](https://www.consolvis.de/en/blog/prevent-errors-in-your-sap-cap-applications-with-tools/)
 - [🤩 52 BEST VSCODE EXTENSIONS TO IMPROVE YOUR PRODUCTIVITY IN 2021](https://www.consolvis.de/en/blog/52-best-vscode-extensions-to-improve-your-productivity-in-2021/)
 - [How to load initial data into nested entities](https://www.consolvis.de/en/blog/how-to-load-initial-data-into-nested-entities/)
 - [Beautify your Windows PowerShell in Visual Studio Code](https://www.consolvis.de/en/blog/beautify-your-windows-powershell-in-visual-studio-code/)
 - [How to become a SAP Business Technology Platform Developer in 2021?](https://www.consolvis.de/en/blog/how-to-become-a-sap-business-technology-platform-developer-in-2021/)
-- [What makes a chatbot successful?](https://www.consolvis.de/en/blog/what-makes-a-chatbot-successful/)
 
 <br>
 
