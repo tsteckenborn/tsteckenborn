@@ -1,0 +1,40 @@
+{
+  "name": "tsteckenborn-github-readme",
+  "description": "GitHub Profile Page",
+  "module": "index.ts",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsteckenborn/tsteckenborn.git"
+  },
+  "keywords": [
+    "readme",
+    "github profile",
+    "github readme"
+  ],
+  "author": "Tobias Steckenborn <tobias.steckenborn@consolvis.de> (https://consolvis.de)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsteckenborn/tsteckenborn/issues"
+  },
+  "homepage": "https://github.com/tsteckenborn/tsteckenborn#readme",
+  "scripts": {
+    "start": "bun run ./src/index.ts",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "bun-types": "latest",
+    "prettier": "3.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@effect/data": "^0.13.6",
+    "@effect/io": "^0.31.3",
+    "@effect/schema": "^0.25.0",
+    "cheerio": "^1.0.0-rc.12",
+    "htmlparser2": "^9.0.0",
+    "rss-parser": "^3.13.0"
+  }
+}

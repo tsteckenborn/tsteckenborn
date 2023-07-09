@@ -1,0 +1,32 @@
+name: Update README.md
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 0 */3 * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+      - run: bun install
+      - run: bun start
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - run: |
+          git config user.name tsteckenborn
+          git config user.email tobias.steckenborn@consolvis.de
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "feat(readme,bot): update readme with latest information
+
+          This commit automatically updates the README file based on external content, ensuring that it reflects the most recent information available. The update is scheduled every 3 days to keep the readme up-to-date."
+          git push origin main
