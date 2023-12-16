@@ -53,6 +53,9 @@ When I'm not coding, I'm sharing my journey, learnings, and insights on [LinkedI
 <br>
 
 
+<a href='https://youtu.be/yFO7N4BXO58' target='_blank'>
+<img width='30%' src='https://img.youtube.com/vi/yFO7N4BXO58/mqdefault.jpg' alt='OAuth2 Authorization Code in Bruno via Scripting' />
+</a>
 <a href='https://youtu.be/zEWmi6UHj_g' target='_blank'>
 <img width='30%' src='https://img.youtube.com/vi/zEWmi6UHj_g/mqdefault.jpg' alt='OAuth2 Client Credentials in Bruno via Scripting' />
 </a>
@@ -64,9 +67,6 @@ When I'm not coding, I'm sharing my journey, learnings, and insights on [LinkedI
 </a>
 <a href='https://youtu.be/a2bGQ6GZCwY' target='_blank'>
 <img width='30%' src='https://img.youtube.com/vi/a2bGQ6GZCwY/mqdefault.jpg' alt='How to load initial data in a SAP CAP application' />
-</a>
-<a href='https://youtu.be/ZqEsWxzv8yg' target='_blank'>
-<img width='30%' src='https://img.youtube.com/vi/ZqEsWxzv8yg/mqdefault.jpg' alt='Beautify your Windows PowerShell in Visual Studio Code' />
 </a>
 
 <br>
@@ -93,11 +93,11 @@ When I'm not coding, I'm sharing my journey, learnings, and insights on [LinkedI
 
  Title | Published On | Engagement |
  ----- | ------------ | ---------- |
-| **[Five SAP Cloud Certifications in 10 Days: New Year’s Resolution Challenge](https://blogs.sap.com/2021/12/27/five-sap-cloud-certifications-in-10-days-new-years-resolution-challenge/)** | Mon Dec 27 2021 | 👍 56 ・ 💬 22 ・ 👁️ 28,858 |
-| **[Executing simple REST requests with SAP CAP applications](https://blogs.sap.com/2021/07/30/executing-simple-rest-requests-with-sap-cap-applications/)** | Fri Jul 30 2021 | 👍 14 ・ 💬 6 ・ 👁️ 8,599 |
-| **[Developing on BTP: The SAP BTP Community - A Guide for Busy Experts](https://blogs.sap.com/2021/04/07/developing-on-btp-the-sap-btp-community-a-guide-for-busy-experts/)** | Wed Apr 07 2021 | 👍 38 ・ 💬 13 ・ 👁️ 4,471 |
-| **[How to prepare for SAP certifications - My experience after passing 11 certifications](https://blogs.sap.com/2021/01/10/how-to-prepare-for-sap-certifications-my-experience-after-passing-11-certifications/)** | Sun Jan 10 2021 | 👍 32 ・ 💬 6 ・ 👁️ 34,082 |
-| **[Achieve your 2021 goals with the communities help](https://blogs.sap.com/2020/12/28/achieve-your-2021-goals-with-the-communities-help/)** | Mon Dec 28 2020 | 👍 9 ・ 💬 0 ・ 👁️ 537 |
+| **[Five SAP Cloud Certifications in 10 Days: New Year’s Resolution Challenge](https://blogs.sap.com/2021/12/27/five-sap-cloud-certifications-in-10-days-new-years-resolution-challenge/)** | Mon Dec 27 2021 | 👍 56 ・ 💬 22 ・ 👁️ 28,892 |
+| **[Executing simple REST requests with SAP CAP applications](https://blogs.sap.com/2021/07/30/executing-simple-rest-requests-with-sap-cap-applications/)** | Fri Jul 30 2021 | 👍 14 ・ 💬 6 ・ 👁️ 8,642 |
+| **[Developing on BTP: The SAP BTP Community - A Guide for Busy Experts](https://blogs.sap.com/2021/04/07/developing-on-btp-the-sap-btp-community-a-guide-for-busy-experts/)** | Wed Apr 07 2021 | 👍 38 ・ 💬 13 ・ 👁️ 4,475 |
+| **[How to prepare for SAP certifications - My experience after passing 11 certifications](https://blogs.sap.com/2021/01/10/how-to-prepare-for-sap-certifications-my-experience-after-passing-11-certifications/)** | Sun Jan 10 2021 | 👍 32 ・ 💬 6 ・ 👁️ 34,169 |
+| **[Achieve your 2021 goals with the communities help](https://blogs.sap.com/2020/12/28/achieve-your-2021-goals-with-the-communities-help/)** | Mon Dec 28 2020 | 👍 9 ・ 💬 0 ・ 👁️ 538 |
 
 <br>
 
