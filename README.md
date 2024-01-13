@@ -93,10 +93,10 @@ When I'm not coding, I'm sharing my journey, learnings, and insights on [LinkedI
 
  Title | Published On | Engagement |
  ----- | ------------ | ---------- |
-| **[Five SAP Cloud Certifications in 10 Days: New Year’s Resolution Challenge](https://blogs.sap.com/2021/12/27/five-sap-cloud-certifications-in-10-days-new-years-resolution-challenge/)** | Mon Dec 27 2021 | 👍 56 ・ 💬 22 ・ 👁️ 29,033 |
-| **[Executing simple REST requests with SAP CAP applications](https://blogs.sap.com/2021/07/30/executing-simple-rest-requests-with-sap-cap-applications/)** | Fri Jul 30 2021 | 👍 14 ・ 💬 6 ・ 👁️ 8,880 |
-| **[Developing on BTP: The SAP BTP Community - A Guide for Busy Experts](https://blogs.sap.com/2021/04/07/developing-on-btp-the-sap-btp-community-a-guide-for-busy-experts/)** | Wed Apr 07 2021 | 👍 38 ・ 💬 13 ・ 👁️ 4,493 |
-| **[How to prepare for SAP certifications - My experience after passing 11 certifications](https://blogs.sap.com/2021/01/10/how-to-prepare-for-sap-certifications-my-experience-after-passing-11-certifications/)** | Sun Jan 10 2021 | 👍 33 ・ 💬 6 ・ 👁️ 34,731 |
+| **[Five SAP Cloud Certifications in 10 Days: New Year’s Resolution Challenge](https://blogs.sap.com/2021/12/27/five-sap-cloud-certifications-in-10-days-new-years-resolution-challenge/)** | Mon Dec 27 2021 | 👍 56 ・ 💬 22 ・ 👁️ 29,056 |
+| **[Executing simple REST requests with SAP CAP applications](https://blogs.sap.com/2021/07/30/executing-simple-rest-requests-with-sap-cap-applications/)** | Fri Jul 30 2021 | 👍 14 ・ 💬 6 ・ 👁️ 8,925 |
+| **[Developing on BTP: The SAP BTP Community - A Guide for Busy Experts](https://blogs.sap.com/2021/04/07/developing-on-btp-the-sap-btp-community-a-guide-for-busy-experts/)** | Wed Apr 07 2021 | 👍 38 ・ 💬 13 ・ 👁️ 4,497 |
+| **[How to prepare for SAP certifications - My experience after passing 11 certifications](https://blogs.sap.com/2021/01/10/how-to-prepare-for-sap-certifications-my-experience-after-passing-11-certifications/)** | Sun Jan 10 2021 | 👍 33 ・ 💬 6 ・ 👁️ 34,813 |
 | **[Achieve your 2021 goals with the communities help](https://blogs.sap.com/2020/12/28/achieve-your-2021-goals-with-the-communities-help/)** | Mon Dec 28 2020 | 👍 9 ・ 💬 0 ・ 👁️ 549 |
 
 <br>
